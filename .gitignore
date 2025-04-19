@@ -33,6 +33,7 @@ minigpt_env/
 *.swo
 
 # Project specific
+output/
 outputs/
 *.log
 wandb/
