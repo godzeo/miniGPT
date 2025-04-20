@@ -38,6 +38,7 @@ outputs/
 *.log
 wandb/
 .DS_Store
+model/
 
 # Model checkpoints and large files
 *.bin
